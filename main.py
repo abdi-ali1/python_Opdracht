@@ -102,7 +102,7 @@ print(f'There was a heat wave in June ({calculateHeateDays(measuredTempaturesJul
 
 
 #ORIENTING: Assessment assignment part 5
-print("ORIENTING: Assessment assignment part 4 ")
+print("ORIENTING: Assessment assignment part 5 ")
 print(f'The biggest jump in June was {calculateHighestJump(measuredTempaturesJune)[0]} degrees. It occurred from  day {calculateHighestJump(measuredTempaturesJune)[1]}  to day {calculateHighestJump(measuredTempaturesJune)[2]}')
 print(f'The biggest jump in July was {calculateHighestJump(measuredTempaturesJuly)[0]} degrees. It occurred from day {calculateHighestJump(measuredTempaturesJuly)[1]} to day {calculateHighestJump(measuredTempaturesJuly)[2]} ')
 
